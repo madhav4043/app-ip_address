@@ -14,7 +14,6 @@ const util = require('util')
  * @property {string} ipv6 - holds ipv6 address
  */
  
-
 /**
  * Calculate and return the first host IP address from a CIDR subnet.
  * @param {string} cidrStr - The IPv4 subnet expressed
